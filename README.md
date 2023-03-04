@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eumesmo144
+- 👋 Hi, I’m Geraldo Neto 
 - 👀 I’m interested in learning :^)
 - 🌱 I’m currently learning git, js and python
 - 💞️ I’m looking to collaborate on cool projects B^)
