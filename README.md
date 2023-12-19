@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Geraldo Neto 
-- 👀 I’m interested in learning :^)
-- 🌱 I’m currently learning git, js and python
+- 👀 I’m interested in Cybersecurity :^)
 - 💞️ I’m looking to collaborate on cool projects B^)
 - 👀 Fun fact about me: My favorite hobby is animate in pixel art! 
 
